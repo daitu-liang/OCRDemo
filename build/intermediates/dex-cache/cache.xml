@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_acd308111b5563da82c4fb917eaddebd6d6d830b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_3d15283879e2a3c7a1d285afed43516a17ef5039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_310a88ca70847c31d0f4fe73b299b0c822013c21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\libs\ocr-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2a81da2c2cc4cd17cbea0d3cc9e56d58e123734">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\ocr-sdk_8bb460385f20ffe8b3e051e53dd1f1569a74c09f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_20e0c17bfca578aa1090311d8b0064b57a4910fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bymax\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.5.0\4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83\okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\okhttp-3.5.0_9c2e9e2a880a1fcae89b4e201be54df34d3c137b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_4c438ef7ce069efe38bed8e3d9176c8c35087851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_562f7dd0118bb2b40d6a5b57c45f203044b6566d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bymax\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_be404dfba78cd067965bd97d9671f17c4c35ed5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_ef9bf0b5a863fea04a98118840d19a1d8b4d0b6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_489ca7016ceccc6c8ac25249007a17988066437d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bymax\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\okio-1.11.0_6e920d34a361863ac1288c3945ec4a3285a6238d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_316076cedc49734cadf8f4850b5487f91a5b17c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\exploded-aar\OCRDemo\ocr_ui\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ceb870ef0b1e9e7661d2a3d2623413f5b614691">
+        <dex dex="F:\soft\aip-ocr-android-sdk-1.0.1\aip-ocr-andoird-sdk-1.0.1\OCRDemo\app\build\intermediates\pre-dexed\debug\OCRDemo-ocr_ui-unspecified_2b5ad391d97c1cb1036663bdeec8bf0c6dd9d463.jar" />
+    </item>
+
+</items>
