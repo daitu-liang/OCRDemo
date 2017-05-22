@@ -20,7 +20,7 @@ import com.baidu.ocr.sdk.model.AccessToken;
 
 public class BaiduMainActivity extends AppCompatActivity {
 
-
+//测试代码是否有所改变
 public static final String TAG="BaiduMainActivity";
 
     private AlertDialog.Builder alertDialog;
@@ -106,6 +106,7 @@ public static final String TAG="BaiduMainActivity";
             Looper.loop();
         }
     }
+    //动态处理权限问题
 
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[]  permissions,
