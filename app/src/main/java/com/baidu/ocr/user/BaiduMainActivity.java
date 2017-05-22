@@ -22,7 +22,8 @@ public class BaiduMainActivity extends AppCompatActivity {
 
 //测试代码是否有所改变
 public static final String TAG="BaiduMainActivity";
-
+//测试
+public static final String TEST="BaiduMainActivity_test";
     private AlertDialog.Builder alertDialog;
 
     @Override
