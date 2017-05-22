@@ -20,6 +20,9 @@ import com.baidu.ocr.sdk.model.AccessToken;
 
 public class BaiduMainActivity extends AppCompatActivity {
 
+
+public static final String TAG="BaiduMainActivity";
+
     private AlertDialog.Builder alertDialog;
 
     @Override
