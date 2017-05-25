@@ -38,6 +38,7 @@ public class GeneralActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_general);
 
+        //jsjsjsjsjk的骄傲理解的
         infoTextView = (TextView) findViewById(R.id.info_text_view);
         infoTextView.setTextIsSelectable(true);
         findViewById(R.id.gallery_button).setOnClickListener(new View.OnClickListener() {
